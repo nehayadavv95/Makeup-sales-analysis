@@ -1,0 +1,501 @@
+Sale_ID,Date,Order_Month,Brand,Product_Type,Country,Sales_Channel,Payment_Method,Price_USD,Units_Sold,Revenue_USD
+1,24-11-2025,Nov,Fenty Beauty,Eyeliner,UAE,Retail Store,Digital Wallet,17.80,48,854.40
+2,22-02-2025,Feb,L'Oreal,Highlighter,USA,Online,Cash,82.82,35,2898.70
+3,22-04-2025,Apr,Maybelline,Eyeliner,Germany,Retail Store,Card,31.76,39,1238.64
+4,29-10-2025,Oct,MAC,Highlighter,France,Mall,Cash,36.99,1,36.99
+5,21-04-2025,Apr,L'Oreal,Lipstick,Germany,Online,Card,115.08,22,2531.76
+6,26-06-2025,Jun,Estee Lauder,Lipstick,Germany,Online,Digital Wallet,74.43,3,223.29
+7,31-05-2025,May,Dior,Eyeliner,UK,Online,Digital Wallet,100.38,40,4015.20
+8,27-04-2025,Apr,Huda Beauty,Lipstick,Germany,Mall,Card,93.90,6,563.40
+9,22-11-2025,Nov,Dior,Concealer,UAE,Mall,Digital Wallet,100.92,11,1110.12
+10,16-12-2025,Dec,MAC,Eyeliner,Saudi Arabia,Beauty Salon,Card,79.52,39,3101.28
+11,19-05-2025,May,Huda Beauty,Concealer,USA,Retail Store,Cash,118.80,41,4870.80
+12,11-06-2025,Jun,Huda Beauty,Concealer,UAE,Beauty Salon,Card,51.13,5,255.65
+13,26-11-2025,Nov,MAC,Eyeliner,India,Beauty Salon,Digital Wallet,57.77,17,982.09
+14,24-07-2025,Jul,Estee Lauder,Lipstick,USA,Online,Cash,46.63,9,419.67
+15,18-11-2025,Nov,NARS,Lipstick,Germany,Beauty Salon,Digital Wallet,23.40,44,1029.60
+16,28-08-2025,Aug,Maybelline,Lipstick,India,Mall,Cash,65.85,36,2370.60
+17,31-05-2025,May,Maybelline,Blush,Saudi Arabia,Online,Digital Wallet,55.00,30,1650.00
+18,02-06-2025,Jun,Huda Beauty,Mascara,France,Retail Store,Digital Wallet,101.79,33,3359.07
+19,29-09-2025,Sep,Dior,Eyeshadow,USA,Online,Card,110.63,39,4314.57
+20,07-06-2025,Jun,L'Oreal,Lipstick,Canada,Online,Digital Wallet,32.54,16,520.64
+21,06-03-2025,Mar,MAC,Blush,Germany,Retail Store,Digital Wallet,19.77,31,612.87
+22,20-12-2025,Dec,NARS,Concealer,Canada,Beauty Salon,Cash,28.13,20,562.60
+23,07-05-2025,May,Maybelline,Eyeliner,UAE,Online,Cash,30.84,22,678.48
+24,29-12-2025,Dec,L'Oreal,Foundation,France,Online,Digital Wallet,77.58,15,1163.70
+25,02-05-2025,May,Huda Beauty,Mascara,Canada,Retail Store,Card,37.02,32,1184.64
+26,28-07-2025,Jul,NARS,Concealer,Germany,Beauty Salon,Card,26.90,7,188.30
+27,28-01-2025,Jan,L'Oreal,Foundation,Germany,Mall,Cash,82.44,42,3462.48
+28,08-05-2025,May,Estee Lauder,Mascara,Germany,Retail Store,Card,27.03,35,946.05
+29,25-08-2025,Aug,Estee Lauder,Lipstick,USA,Online,Cash,33.73,5,168.65
+30,02-05-2025,May,Estee Lauder,Eyeliner,Germany,Online,Cash,24.13,32,772.16
+31,14-07-2025,Jul,Fenty Beauty,Eyeshadow,India,Beauty Salon,Digital Wallet,5.25,25,131.25
+32,12-10-2025,Oct,MAC,Eyeliner,India,Retail Store,Cash,81.12,32,2595.84
+33,24-10-2025,Oct,Dior,Foundation,USA,Beauty Salon,Digital Wallet,89.61,4,358.44
+34,29-09-2025,Sep,L'Oreal,Mascara,UK,Online,Digital Wallet,23.10,33,762.30
+35,01-05-2025,May,Huda Beauty,Foundation,UK,Beauty Salon,Digital Wallet,51.43,37,1902.91
+36,26-10-2025,Oct,Fenty Beauty,Eyeliner,France,Retail Store,Card,70.00,21,1470.00
+37,22-07-2025,Jul,Fenty Beauty,Eyeshadow,France,Online,Cash,20.05,42,842.10
+38,23-08-2025,Aug,L'Oreal,Lipstick,UAE,Mall,Cash,76.43,37,2827.91
+39,28-06-2025,Jun,Dior,Blush,Saudi Arabia,Beauty Salon,Digital Wallet,106.30,16,1700.80
+40,27-12-2025,Dec,Maybelline,Blush,UK,Retail Store,Card,39.79,42,1671.18
+41,01-03-2025,Mar,MAC,Blush,India,Retail Store,Digital Wallet,107.32,48,5151.36
+42,25-06-2025,Jun,Fenty Beauty,Eyeshadow,India,Online,Cash,28.41,41,1164.81
+43,21-11-2025,Nov,Maybelline,Foundation,France,Retail Store,Digital Wallet,53.71,18,966.78
+44,15-05-2025,May,NARS,Foundation,UK,Online,Digital Wallet,23.58,29,683.82
+45,18-03-2025,Mar,MAC,Highlighter,Saudi Arabia,Online,Card,67.74,24,1625.76
+46,06-07-2025,Jul,Dior,Eyeliner,UAE,Online,Card,108.38,3,325.14
+47,14-10-2025,Oct,MAC,Eyeliner,Saudi Arabia,Retail Store,Card,106.68,27,2880.36
+48,13-01-2025,Jan,NARS,Eyeliner,India,Retail Store,Digital Wallet,25.63,22,563.86
+49,25-02-2025,Feb,Estee Lauder,Eyeliner,UAE,Beauty Salon,Card,48.99,3,146.97
+50,06-06-2025,Jun,Huda Beauty,Foundation,UAE,Beauty Salon,Card,99.36,15,1490.40
+51,23-05-2025,May,Fenty Beauty,Concealer,Germany,Mall,Cash,104.40,50,5220.00
+52,01-03-2025,Mar,MAC,Blush,USA,Online,Digital Wallet,105.86,17,1799.62
+53,11-08-2025,Aug,NARS,Lipstick,Germany,Retail Store,Card,44.75,21,939.75
+54,23-01-2025,Jan,Huda Beauty,Concealer,Germany,Online,Digital Wallet,86.51,1,86.51
+55,19-06-2025,Jun,L'Oreal,Blush,India,Beauty Salon,Card,76.66,43,3296.38
+56,26-07-2025,Jul,MAC,Eyeliner,Germany,Beauty Salon,Digital Wallet,85.18,36,3066.48
+57,31-03-2025,Mar,NARS,Foundation,India,Mall,Cash,75.78,20,1515.60
+58,09-08-2025,Aug,Dior,Eyeshadow,Canada,Beauty Salon,Digital Wallet,95.36,39,3719.04
+59,20-04-2025,Apr,MAC,Lipstick,India,Mall,Cash,63.79,48,3061.92
+60,01-05-2025,May,Huda Beauty,Mascara,USA,Online,Cash,82.37,15,1235.55
+61,01-09-2025,Sep,L'Oreal,Eyeshadow,Germany,Retail Store,Digital Wallet,75.30,50,3765.00
+62,23-12-2025,Dec,Huda Beauty,Mascara,USA,Online,Card,49.16,26,1278.16
+63,23-04-2025,Apr,Estee Lauder,Foundation,UAE,Online,Card,25.23,45,1135.35
+64,10-03-2025,Mar,Dior,Eyeshadow,Germany,Beauty Salon,Cash,97.16,43,4177.88
+65,01-09-2025,Sep,Huda Beauty,Blush,Canada,Retail Store,Card,56.76,49,2781.24
+66,14-08-2025,Aug,Huda Beauty,Blush,France,Mall,Digital Wallet,13.91,19,264.29
+67,11-02-2025,Feb,NARS,Mascara,UAE,Online,Card,20.91,15,313.65
+68,28-07-2025,Jul,NARS,Foundation,UAE,Beauty Salon,Card,43.05,30,1291.50
+69,27-10-2025,Oct,NARS,Eyeshadow,USA,Mall,Card,113.80,2,227.60
+70,19-07-2025,Jul,Huda Beauty,Eyeshadow,UAE,Mall,Card,103.15,27,2785.05
+71,06-09-2025,Sep,NARS,Mascara,Canada,Retail Store,Digital Wallet,8.34,22,183.48
+72,01-10-2025,Oct,Maybelline,Lipstick,Germany,Retail Store,Card,8.10,26,210.60
+73,04-04-2025,Apr,Dior,Eyeliner,Canada,Mall,Card,10.78,25,269.50
+74,14-07-2025,Jul,Fenty Beauty,Lipstick,Canada,Online,Digital Wallet,37.00,27,999.00
+75,04-10-2025,Oct,Huda Beauty,Lipstick,USA,Online,Cash,10.99,23,252.77
+76,13-04-2025,Apr,MAC,Eyeliner,Saudi Arabia,Beauty Salon,Digital Wallet,101.51,40,4060.40
+77,28-02-2025,Feb,Estee Lauder,Blush,France,Retail Store,Digital Wallet,69.86,14,978.04
+78,07-11-2025,Nov,L'Oreal,Mascara,India,Online,Digital Wallet,115.83,46,5328.18
+79,14-01-2025,Jan,NARS,Highlighter,UAE,Online,Digital Wallet,111.82,37,4137.34
+80,20-12-2025,Dec,L'Oreal,Blush,UK,Online,Card,100.52,16,1608.32
+81,30-09-2025,Sep,L'Oreal,Concealer,USA,Beauty Salon,Card,54.26,24,1302.24
+82,24-02-2025,Feb,Estee Lauder,Mascara,Germany,Retail Store,Digital Wallet,54.86,24,1316.64
+83,25-09-2025,Sep,Estee Lauder,Eyeshadow,Germany,Mall,Card,116.03,18,2088.54
+84,06-05-2025,May,Fenty Beauty,Eyeshadow,UAE,Beauty Salon,Digital Wallet,100.53,6,603.18
+85,09-11-2025,Nov,Maybelline,Eyeshadow,France,Retail Store,Card,81.84,22,1800.48
+86,19-04-2025,Apr,Dior,Blush,India,Online,Digital Wallet,45.80,17,778.60
+87,08-04-2025,Apr,NARS,Eyeshadow,UAE,Beauty Salon,Digital Wallet,14.85,47,697.95
+88,31-12-2025,Dec,L'Oreal,Blush,UAE,Beauty Salon,Digital Wallet,61.44,2,122.88
+89,05-05-2025,May,Dior,Eyeshadow,France,Beauty Salon,Digital Wallet,40.21,38,1527.98
+90,09-10-2025,Oct,Estee Lauder,Blush,India,Mall,Cash,43.04,45,1936.80
+91,03-03-2025,Mar,L'Oreal,Mascara,UAE,Retail Store,Digital Wallet,87.95,21,1846.95
+92,05-09-2025,Sep,Fenty Beauty,Lipstick,UAE,Mall,Cash,36.80,38,1398.40
+93,04-07-2025,Jul,MAC,Blush,USA,Online,Digital Wallet,25.64,1,25.64
+94,30-05-2025,May,Estee Lauder,Lipstick,USA,Mall,Card,85.20,9,766.80
+95,03-09-2025,Sep,Maybelline,Blush,Canada,Online,Cash,55.65,12,667.80
+96,25-07-2025,Jul,Maybelline,Mascara,Saudi Arabia,Mall,Cash,61.55,37,2277.35
+97,08-05-2025,May,NARS,Eyeliner,Germany,Beauty Salon,Card,18.62,49,912.38
+98,02-06-2025,Jun,Fenty Beauty,Foundation,UK,Retail Store,Digital Wallet,103.92,28,2909.76
+99,19-04-2025,Apr,MAC,Eyeliner,Saudi Arabia,Online,Cash,35.43,6,212.58
+100,02-01-2025,Jan,Estee Lauder,Blush,USA,Retail Store,Card,51.98,45,2339.10
+101,28-12-2025,Dec,L'Oreal,Eyeliner,India,Retail Store,Card,37.51,30,1125.30
+102,28-02-2025,Feb,MAC,Blush,Saudi Arabia,Online,Cash,67.62,42,2840.04
+103,26-03-2025,Mar,Fenty Beauty,Eyeshadow,UK,Beauty Salon,Digital Wallet,96.15,39,3749.85
+104,05-06-2025,Jun,Estee Lauder,Eyeshadow,UK,Online,Card,85.47,18,1538.46
+105,15-06-2025,Jun,L'Oreal,Eyeliner,USA,Mall,Digital Wallet,74.43,2,148.86
+106,21-01-2025,Jan,Estee Lauder,Eyeshadow,India,Retail Store,Digital Wallet,92.76,12,1113.12
+107,12-08-2025,Aug,L'Oreal,Eyeshadow,France,Beauty Salon,Card,78.00,32,2496.00
+108,14-06-2025,Jun,Dior,Highlighter,Canada,Mall,Digital Wallet,82.07,11,902.77
+109,25-07-2025,Jul,Maybelline,Eyeshadow,UK,Mall,Card,98.56,36,3548.16
+110,15-06-2025,Jun,NARS,Foundation,Canada,Beauty Salon,Cash,18.33,50,916.50
+111,07-04-2025,Apr,Estee Lauder,Eyeshadow,USA,Retail Store,Card,64.62,40,2584.80
+112,09-10-2025,Oct,Estee Lauder,Eyeshadow,UK,Online,Digital Wallet,20.07,19,381.33
+113,08-11-2025,Nov,MAC,Blush,USA,Beauty Salon,Cash,96.92,46,4458.32
+114,26-04-2025,Apr,Estee Lauder,Lipstick,Saudi Arabia,Beauty Salon,Digital Wallet,119.11,8,952.88
+115,30-05-2025,May,NARS,Eyeshadow,Canada,Retail Store,Card,63.52,18,1143.36
+116,10-10-2025,Oct,MAC,Lipstick,India,Beauty Salon,Card,21.63,13,281.19
+117,17-09-2025,Sep,Fenty Beauty,Blush,Canada,Retail Store,Card,35.72,1,35.72
+118,03-10-2025,Oct,NARS,Eyeshadow,France,Retail Store,Digital Wallet,60.70,22,1335.40
+119,03-05-2025,May,NARS,Foundation,France,Beauty Salon,Digital Wallet,70.76,15,1061.40
+120,15-07-2025,Jul,MAC,Eyeshadow,USA,Retail Store,Digital Wallet,49.40,43,2124.20
+121,30-10-2025,Oct,Estee Lauder,Lipstick,Canada,Online,Digital Wallet,43.18,7,302.26
+122,15-03-2025,Mar,MAC,Lipstick,Canada,Mall,Card,52.15,42,2190.30
+123,16-11-2025,Nov,L'Oreal,Concealer,Germany,Mall,Digital Wallet,84.66,42,3555.72
+124,07-09-2025,Sep,L'Oreal,Eyeliner,India,Retail Store,Digital Wallet,105.32,3,315.96
+125,16-02-2025,Feb,L'Oreal,Eyeshadow,Saudi Arabia,Mall,Cash,54.91,7,384.37
+126,24-01-2025,Jan,Fenty Beauty,Concealer,France,Beauty Salon,Cash,42.30,4,169.20
+127,06-05-2025,May,MAC,Mascara,Saudi Arabia,Online,Digital Wallet,66.08,37,2444.96
+128,15-07-2025,Jul,Estee Lauder,Mascara,UAE,Beauty Salon,Digital Wallet,76.27,16,1220.32
+129,11-05-2025,May,Maybelline,Eyeshadow,India,Retail Store,Cash,57.85,43,2487.55
+130,15-08-2025,Aug,Fenty Beauty,Highlighter,India,Beauty Salon,Card,113.70,38,4320.60
+131,12-04-2025,Apr,L'Oreal,Eyeliner,Germany,Mall,Digital Wallet,119.93,31,3717.83
+132,01-06-2025,Jun,Maybelline,Highlighter,India,Online,Digital Wallet,119.16,19,2264.04
+133,18-12-2025,Dec,Estee Lauder,Blush,UAE,Mall,Cash,94.51,4,378.04
+134,22-11-2025,Nov,MAC,Lipstick,USA,Mall,Card,26.87,17,456.79
+135,18-01-2025,Jan,MAC,Lipstick,India,Mall,Digital Wallet,71.65,47,3367.55
+136,01-08-2025,Aug,Dior,Blush,Saudi Arabia,Mall,Card,25.20,9,226.80
+137,01-06-2025,Jun,L'Oreal,Eyeshadow,UK,Retail Store,Cash,90.85,22,1998.70
+138,13-12-2025,Dec,Dior,Lipstick,Germany,Online,Card,88.28,26,2295.28
+139,02-10-2025,Oct,Fenty Beauty,Highlighter,France,Online,Digital Wallet,19.21,24,461.04
+140,30-04-2025,Apr,Dior,Eyeliner,UK,Beauty Salon,Digital Wallet,59.22,40,2368.80
+141,04-06-2025,Jun,MAC,Foundation,USA,Mall,Card,79.66,8,637.28
+142,01-03-2025,Mar,MAC,Highlighter,Canada,Mall,Digital Wallet,16.18,35,566.30
+143,23-12-2025,Dec,MAC,Highlighter,UK,Beauty Salon,Digital Wallet,113.79,27,3072.33
+144,28-07-2025,Jul,Maybelline,Concealer,UAE,Beauty Salon,Card,112.99,18,2033.82
+145,01-05-2025,May,Dior,Concealer,USA,Beauty Salon,Card,103.38,7,723.66
+146,08-04-2025,Apr,L'Oreal,Eyeliner,USA,Online,Card,116.34,30,3490.20
+147,05-05-2025,May,Huda Beauty,Lipstick,UAE,Retail Store,Cash,118.71,37,4392.27
+148,18-06-2025,Jun,Maybelline,Blush,Saudi Arabia,Retail Store,Digital Wallet,94.05,39,3667.95
+149,09-05-2025,May,Maybelline,Mascara,USA,Mall,Cash,96.83,8,774.64
+150,29-10-2025,Oct,Fenty Beauty,Foundation,Saudi Arabia,Beauty Salon,Digital Wallet,42.23,12,506.76
+151,28-02-2025,Feb,Estee Lauder,Concealer,UK,Beauty Salon,Digital Wallet,90.75,31,2813.25
+152,24-04-2025,Apr,Fenty Beauty,Eyeshadow,USA,Online,Card,113.72,3,341.16
+153,25-07-2025,Jul,Estee Lauder,Eyeshadow,UK,Online,Card,54.02,7,378.14
+154,08-11-2025,Nov,Fenty Beauty,Concealer,Germany,Mall,Card,22.06,9,198.54
+155,16-09-2025,Sep,L'Oreal,Eyeliner,Germany,Beauty Salon,Cash,74.62,7,522.34
+156,31-07-2025,Jul,NARS,Highlighter,UK,Mall,Card,43.98,30,1319.40
+157,10-06-2025,Jun,MAC,Eyeshadow,UK,Online,Cash,81.49,24,1955.76
+158,17-02-2025,Feb,Dior,Mascara,USA,Mall,Digital Wallet,54.67,48,2624.16
+159,04-03-2025,Mar,NARS,Foundation,India,Mall,Card,52.24,43,2246.32
+160,23-02-2025,Feb,MAC,Eyeshadow,UAE,Online,Card,71.46,14,1000.44
+161,12-10-2025,Oct,Fenty Beauty,Eyeliner,Germany,Online,Digital Wallet,47.27,49,2316.23
+162,03-12-2025,Dec,Maybelline,Mascara,India,Mall,Card,100.39,18,1807.02
+163,29-06-2025,Jun,NARS,Lipstick,Saudi Arabia,Online,Cash,5.70,10,57.00
+164,29-09-2025,Sep,Estee Lauder,Concealer,Saudi Arabia,Mall,Card,29.74,27,802.98
+165,16-06-2025,Jun,L'Oreal,Foundation,Saudi Arabia,Retail Store,Digital Wallet,94.34,37,3490.58
+166,26-01-2025,Jan,Estee Lauder,Highlighter,Canada,Beauty Salon,Card,82.51,18,1485.18
+167,20-05-2025,May,L'Oreal,Concealer,Germany,Online,Card,29.79,33,983.07
+168,14-12-2025,Dec,Fenty Beauty,Foundation,UAE,Beauty Salon,Digital Wallet,83.03,32,2656.96
+169,29-01-2025,Jan,Huda Beauty,Mascara,India,Mall,Card,5.88,20,117.60
+170,03-03-2025,Mar,NARS,Mascara,Saudi Arabia,Beauty Salon,Digital Wallet,5.89,48,282.72
+171,27-12-2025,Dec,Dior,Lipstick,Germany,Online,Card,31.46,36,1132.56
+172,10-01-2025,Jan,Dior,Highlighter,Germany,Beauty Salon,Card,57.87,5,289.35
+173,28-02-2025,Feb,MAC,Eyeshadow,France,Online,Card,51.58,21,1083.18
+174,24-02-2025,Feb,NARS,Lipstick,Germany,Mall,Digital Wallet,32.98,38,1253.24
+175,23-06-2025,Jun,MAC,Lipstick,UK,Retail Store,Card,30.48,50,1524.00
+176,29-06-2025,Jun,MAC,Eyeliner,UK,Retail Store,Card,88.65,42,3723.30
+177,12-04-2025,Apr,L'Oreal,Mascara,Canada,Beauty Salon,Digital Wallet,24.95,10,249.50
+178,24-10-2025,Oct,Dior,Concealer,Saudi Arabia,Beauty Salon,Cash,56.62,37,2094.94
+179,29-08-2025,Aug,Fenty Beauty,Foundation,France,Online,Card,55.85,20,1117.00
+180,25-08-2025,Aug,Dior,Blush,UK,Online,Digital Wallet,56.97,4,227.88
+181,01-11-2025,Nov,Maybelline,Eyeshadow,UAE,Mall,Digital Wallet,63.31,30,1899.30
+182,01-09-2025,Sep,Estee Lauder,Lipstick,France,Online,Digital Wallet,62.66,4,250.64
+183,27-11-2025,Nov,Estee Lauder,Eyeshadow,Saudi Arabia,Mall,Card,24.84,16,397.44
+184,25-05-2025,May,Dior,Foundation,France,Online,Card,49.55,50,2477.50
+185,18-02-2025,Feb,Fenty Beauty,Blush,Saudi Arabia,Mall,Cash,69.17,25,1729.25
+186,26-10-2025,Oct,Fenty Beauty,Highlighter,Saudi Arabia,Online,Card,81.32,23,1870.36
+187,14-10-2025,Oct,MAC,Lipstick,Germany,Mall,Cash,48.32,22,1063.04
+188,05-07-2025,Jul,Dior,Eyeshadow,UAE,Retail Store,Cash,40.52,14,567.28
+189,21-03-2025,Mar,Maybelline,Concealer,Saudi Arabia,Beauty Salon,Cash,13.87,7,97.09
+190,25-03-2025,Mar,MAC,Eyeshadow,USA,Beauty Salon,Card,25.80,45,1161.00
+191,13-12-2025,Dec,Fenty Beauty,Eyeshadow,UAE,Retail Store,Card,87.75,29,2544.75
+192,29-08-2025,Aug,Dior,Eyeshadow,Canada,Mall,Card,108.96,13,1416.48
+193,15-09-2025,Sep,Huda Beauty,Mascara,India,Online,Digital Wallet,65.66,11,722.26
+194,04-09-2025,Sep,L'Oreal,Lipstick,India,Online,Cash,105.52,36,3798.72
+195,20-05-2025,May,MAC,Highlighter,UK,Retail Store,Card,56.67,33,1870.11
+196,28-06-2025,Jun,Maybelline,Highlighter,France,Retail Store,Card,112.00,27,3024.00
+197,11-02-2025,Feb,Dior,Lipstick,France,Retail Store,Cash,48.11,2,96.22
+198,20-01-2025,Jan,MAC,Eyeshadow,Canada,Online,Cash,37.99,31,1177.69
+199,10-01-2025,Jan,NARS,Lipstick,India,Retail Store,Card,34.43,10,344.30
+200,04-03-2025,Mar,Estee Lauder,Lipstick,UK,Beauty Salon,Digital Wallet,10.49,27,283.23
+201,02-10-2025,Oct,Huda Beauty,Mascara,India,Beauty Salon,Cash,6.89,33,227.37
+202,11-11-2025,Nov,NARS,Mascara,UK,Mall,Cash,45.57,37,1686.09
+203,27-09-2025,Sep,Maybelline,Highlighter,Canada,Online,Digital Wallet,67.57,33,2229.81
+204,18-07-2025,Jul,Maybelline,Concealer,UK,Mall,Cash,117.82,17,2002.94
+205,03-12-2025,Dec,Dior,Mascara,USA,Mall,Digital Wallet,77.25,50,3862.50
+206,23-06-2025,Jun,Estee Lauder,Eyeshadow,Saudi Arabia,Retail Store,Cash,98.55,12,1182.60
+207,23-08-2025,Aug,Maybelline,Eyeliner,USA,Mall,Card,9.25,13,120.25
+208,21-09-2025,Sep,Estee Lauder,Blush,USA,Retail Store,Card,50.80,35,1778.00
+209,02-07-2025,Jul,Dior,Blush,UK,Mall,Card,104.15,4,416.60
+210,24-07-2025,Jul,Dior,Mascara,Canada,Beauty Salon,Card,90.48,25,2262.00
+211,23-09-2025,Sep,NARS,Lipstick,Germany,Retail Store,Digital Wallet,35.67,6,214.02
+212,31-05-2025,May,Dior,Blush,India,Beauty Salon,Digital Wallet,41.94,6,251.64
+213,07-08-2025,Aug,Dior,Eyeshadow,USA,Mall,Digital Wallet,24.16,29,700.64
+214,11-08-2025,Aug,L'Oreal,Highlighter,France,Retail Store,Cash,36.57,4,146.28
+215,15-03-2025,Mar,Estee Lauder,Foundation,Saudi Arabia,Online,Cash,102.60,44,4514.40
+216,27-11-2025,Nov,Maybelline,Mascara,Canada,Mall,Card,47.13,25,1178.25
+217,16-08-2025,Aug,MAC,Concealer,Germany,Mall,Digital Wallet,92.75,37,3431.75
+218,23-05-2025,May,Maybelline,Mascara,Canada,Beauty Salon,Digital Wallet,33.71,8,269.68
+219,02-03-2025,Mar,Estee Lauder,Eyeliner,India,Beauty Salon,Cash,35.10,17,596.70
+220,04-03-2025,Mar,Estee Lauder,Mascara,Canada,Online,Digital Wallet,20.61,5,103.05
+221,13-06-2025,Jun,L'Oreal,Blush,India,Retail Store,Digital Wallet,81.80,46,3762.80
+222,30-12-2025,Dec,MAC,Concealer,UAE,Online,Cash,111.64,41,4577.24
+223,13-03-2025,Mar,Maybelline,Concealer,France,Beauty Salon,Digital Wallet,32.22,32,1031.04
+224,08-03-2025,Mar,L'Oreal,Blush,Germany,Beauty Salon,Digital Wallet,75.37,6,452.22
+225,30-07-2025,Jul,L'Oreal,Mascara,France,Online,Card,93.45,37,3457.65
+226,27-08-2025,Aug,MAC,Mascara,Saudi Arabia,Beauty Salon,Digital Wallet,83.21,23,1913.83
+227,29-01-2025,Jan,MAC,Blush,Saudi Arabia,Retail Store,Card,100.61,34,3420.74
+228,30-12-2025,Dec,Fenty Beauty,Lipstick,India,Retail Store,Digital Wallet,30.93,34,1051.62
+229,10-10-2025,Oct,Fenty Beauty,Lipstick,Saudi Arabia,Retail Store,Cash,36.56,41,1498.96
+230,04-12-2025,Dec,Dior,Foundation,USA,Online,Cash,76.82,39,2995.98
+231,25-11-2025,Nov,Huda Beauty,Highlighter,USA,Beauty Salon,Digital Wallet,93.67,17,1592.39
+232,07-10-2025,Oct,Estee Lauder,Eyeliner,Germany,Mall,Card,38.31,20,766.20
+233,07-02-2025,Feb,Estee Lauder,Highlighter,Canada,Beauty Salon,Cash,84.19,11,926.09
+234,24-06-2025,Jun,Dior,Concealer,Germany,Retail Store,Card,74.77,21,1570.17
+235,21-09-2025,Sep,Huda Beauty,Eyeshadow,UK,Mall,Card,69.59,21,1461.39
+236,07-05-2025,May,Fenty Beauty,Highlighter,Germany,Retail Store,Cash,21.20,4,84.80
+237,17-06-2025,Jun,Dior,Eyeliner,Saudi Arabia,Beauty Salon,Digital Wallet,112.38,47,5281.86
+238,28-08-2025,Aug,Estee Lauder,Foundation,UK,Beauty Salon,Digital Wallet,62.36,20,1247.20
+239,23-08-2025,Aug,Dior,Foundation,USA,Mall,Card,116.17,14,1626.38
+240,02-11-2025,Nov,Estee Lauder,Blush,USA,Online,Card,106.47,42,4471.74
+241,10-03-2025,Mar,Dior,Highlighter,France,Online,Card,106.48,47,5004.56
+242,27-01-2025,Jan,Dior,Blush,UK,Beauty Salon,Digital Wallet,70.58,13,917.54
+243,19-08-2025,Aug,L'Oreal,Mascara,UK,Beauty Salon,Card,92.91,18,1672.38
+244,23-06-2025,Jun,MAC,Eyeliner,Germany,Online,Cash,69.15,24,1659.60
+245,20-01-2025,Jan,Estee Lauder,Eyeshadow,Saudi Arabia,Retail Store,Card,20.76,22,456.72
+246,10-11-2025,Nov,Fenty Beauty,Concealer,Canada,Mall,Card,41.63,26,1082.38
+247,09-01-2025,Jan,L'Oreal,Highlighter,India,Online,Digital Wallet,47.36,44,2083.84
+248,31-08-2025,Aug,Huda Beauty,Foundation,Canada,Retail Store,Digital Wallet,35.54,42,1492.68
+249,19-11-2025,Nov,NARS,Mascara,UAE,Online,Digital Wallet,87.94,50,4397.00
+250,25-12-2025,Dec,Estee Lauder,Concealer,Germany,Retail Store,Card,17.64,2,35.28
+251,20-12-2025,Dec,Estee Lauder,Foundation,Saudi Arabia,Retail Store,Digital Wallet,28.45,33,938.85
+252,16-06-2025,Jun,NARS,Concealer,Saudi Arabia,Beauty Salon,Digital Wallet,119.78,31,3713.18
+253,25-06-2025,Jun,Fenty Beauty,Eyeshadow,UAE,Retail Store,Card,67.82,44,2984.08
+254,13-10-2025,Oct,Fenty Beauty,Eyeliner,Canada,Mall,Card,39.33,20,786.60
+255,28-06-2025,Jun,Fenty Beauty,Blush,UK,Beauty Salon,Card,69.46,47,3264.62
+256,26-06-2025,Jun,Fenty Beauty,Foundation,India,Online,Card,114.78,10,1147.80
+257,15-08-2025,Aug,Estee Lauder,Eyeliner,UAE,Mall,Digital Wallet,80.44,48,3861.12
+258,23-12-2025,Dec,Huda Beauty,Eyeliner,USA,Retail Store,Digital Wallet,36.24,7,253.68
+259,30-04-2025,Apr,Dior,Eyeshadow,UK,Retail Store,Cash,11.04,27,298.08
+260,09-10-2025,Oct,NARS,Eyeshadow,Canada,Retail Store,Card,117.46,11,1292.06
+261,14-06-2025,Jun,L'Oreal,Eyeliner,USA,Retail Store,Card,37.82,4,151.28
+262,01-04-2025,Apr,NARS,Eyeshadow,Saudi Arabia,Mall,Cash,112.40,3,337.20
+263,05-01-2025,Jan,L'Oreal,Concealer,India,Beauty Salon,Digital Wallet,39.32,39,1533.48
+264,06-10-2025,Oct,Estee Lauder,Blush,UAE,Online,Card,65.30,9,587.70
+265,25-03-2025,Mar,Fenty Beauty,Mascara,USA,Mall,Card,89.08,42,3741.36
+266,18-10-2025,Oct,MAC,Highlighter,Germany,Mall,Cash,82.56,13,1073.28
+267,25-07-2025,Jul,MAC,Eyeshadow,France,Retail Store,Cash,81.96,12,983.52
+268,14-05-2025,May,Fenty Beauty,Concealer,India,Online,Card,49.11,29,1424.19
+269,01-12-2025,Dec,Maybelline,Lipstick,Canada,Mall,Cash,46.35,16,741.60
+270,27-07-2025,Jul,Fenty Beauty,Lipstick,India,Mall,Digital Wallet,83.90,46,3859.40
+271,24-04-2025,Apr,Estee Lauder,Mascara,Canada,Mall,Card,30.20,9,271.80
+272,26-12-2025,Dec,Huda Beauty,Eyeliner,UK,Beauty Salon,Digital Wallet,68.16,31,2112.96
+273,27-12-2025,Dec,L'Oreal,Foundation,UAE,Retail Store,Cash,46.61,37,1724.57
+274,17-06-2025,Jun,L'Oreal,Eyeliner,Canada,Online,Digital Wallet,103.27,29,2994.83
+275,17-08-2025,Aug,MAC,Highlighter,Canada,Online,Digital Wallet,98.00,30,2940.00
+276,25-08-2025,Aug,Maybelline,Highlighter,India,Online,Digital Wallet,82.37,20,1647.40
+277,22-04-2025,Apr,NARS,Concealer,UK,Online,Cash,71.51,3,214.53
+278,30-08-2025,Aug,MAC,Mascara,Germany,Mall,Card,8.65,27,233.55
+279,18-08-2025,Aug,NARS,Lipstick,Saudi Arabia,Mall,Cash,105.01,25,2625.25
+280,02-04-2025,Apr,MAC,Eyeliner,USA,Online,Card,119.18,26,3098.68
+281,26-08-2025,Aug,NARS,Highlighter,UAE,Retail Store,Card,82.45,35,2885.75
+282,27-06-2025,Jun,L'Oreal,Foundation,Germany,Online,Cash,22.84,13,296.92
+283,16-04-2025,Apr,Maybelline,Eyeshadow,USA,Retail Store,Digital Wallet,12.74,39,496.86
+284,23-01-2025,Jan,Huda Beauty,Foundation,Saudi Arabia,Mall,Cash,51.26,15,768.90
+285,22-10-2025,Oct,Dior,Eyeliner,India,Retail Store,Digital Wallet,41.67,39,1625.13
+286,24-09-2025,Sep,Fenty Beauty,Foundation,Saudi Arabia,Beauty Salon,Digital Wallet,30.42,20,608.40
+287,11-09-2025,Sep,NARS,Concealer,Germany,Beauty Salon,Cash,10.39,23,238.97
+288,03-06-2025,Jun,Estee Lauder,Eyeliner,UAE,Mall,Digital Wallet,48.29,49,2366.21
+289,15-03-2025,Mar,NARS,Highlighter,Saudi Arabia,Beauty Salon,Cash,97.66,4,390.64
+290,11-05-2025,May,L'Oreal,Eyeshadow,France,Online,Digital Wallet,28.38,42,1191.96
+291,08-04-2025,Apr,Maybelline,Lipstick,UAE,Retail Store,Card,10.93,25,273.25
+292,17-04-2025,Apr,Fenty Beauty,Foundation,UAE,Retail Store,Digital Wallet,104.99,22,2309.78
+293,02-03-2025,Mar,Estee Lauder,Eyeliner,UAE,Beauty Salon,Cash,90.89,49,4453.61
+294,10-10-2025,Oct,NARS,Eyeshadow,France,Mall,Card,41.99,19,797.81
+295,04-07-2025,Jul,Estee Lauder,Lipstick,Canada,Mall,Cash,63.97,32,2047.04
+296,09-07-2025,Jul,Huda Beauty,Mascara,USA,Mall,Digital Wallet,40.99,3,122.97
+297,27-10-2025,Oct,Fenty Beauty,Mascara,UAE,Mall,Cash,71.60,27,1933.20
+298,14-07-2025,Jul,Estee Lauder,Concealer,India,Beauty Salon,Digital Wallet,70.53,16,1128.48
+299,25-11-2025,Nov,MAC,Concealer,Saudi Arabia,Retail Store,Digital Wallet,90.05,30,2701.50
+300,07-10-2025,Oct,Maybelline,Foundation,UK,Online,Cash,61.16,35,2140.60
+301,31-07-2025,Jul,Huda Beauty,Lipstick,Saudi Arabia,Online,Cash,20.81,41,853.21
+302,16-09-2025,Sep,Estee Lauder,Eyeshadow,USA,Online,Digital Wallet,57.44,4,229.76
+303,10-10-2025,Oct,Fenty Beauty,Blush,USA,Beauty Salon,Cash,52.30,2,104.60
+304,24-02-2025,Feb,MAC,Eyeliner,UAE,Mall,Card,110.58,34,3759.72
+305,17-05-2025,May,Dior,Highlighter,Canada,Retail Store,Digital Wallet,96.42,6,578.52
+306,26-04-2025,Apr,Maybelline,Lipstick,Germany,Beauty Salon,Card,39.50,6,237.00
+307,10-10-2025,Oct,Maybelline,Mascara,UK,Beauty Salon,Card,59.74,41,2449.34
+308,27-11-2025,Nov,L'Oreal,Foundation,UAE,Retail Store,Digital Wallet,95.20,37,3522.40
+309,18-10-2025,Oct,L'Oreal,Blush,USA,Retail Store,Card,59.68,3,179.04
+310,09-01-2025,Jan,MAC,Highlighter,UK,Mall,Cash,115.57,38,4391.66
+311,16-10-2025,Oct,Dior,Highlighter,Saudi Arabia,Online,Digital Wallet,32.65,25,816.25
+312,27-06-2025,Jun,Huda Beauty,Lipstick,France,Beauty Salon,Card,11.18,28,313.04
+313,16-01-2025,Jan,Estee Lauder,Eyeliner,France,Beauty Salon,Card,77.92,29,2259.68
+314,06-04-2025,Apr,NARS,Lipstick,India,Retail Store,Digital Wallet,83.16,43,3575.88
+315,07-02-2025,Feb,NARS,Mascara,Germany,Mall,Card,14.43,10,144.30
+316,24-02-2025,Feb,Estee Lauder,Concealer,India,Online,Cash,15.52,20,310.40
+317,14-02-2025,Feb,NARS,Lipstick,USA,Online,Card,26.55,29,769.95
+318,11-10-2025,Oct,Dior,Highlighter,USA,Mall,Card,15.70,39,612.30
+319,18-07-2025,Jul,Huda Beauty,Mascara,Germany,Retail Store,Cash,94.60,47,4446.20
+320,18-05-2025,May,MAC,Lipstick,Saudi Arabia,Beauty Salon,Card,39.63,32,1268.16
+321,04-08-2025,Aug,Dior,Blush,UAE,Beauty Salon,Digital Wallet,39.47,5,197.35
+322,12-11-2025,Nov,MAC,Blush,USA,Beauty Salon,Card,27.49,7,192.43
+323,14-11-2025,Nov,Estee Lauder,Concealer,Germany,Retail Store,Card,48.69,22,1071.18
+324,14-06-2025,Jun,Huda Beauty,Eyeshadow,France,Retail Store,Card,74.37,45,3346.65
+325,13-06-2025,Jun,Estee Lauder,Eyeliner,France,Beauty Salon,Card,38.52,45,1733.40
+326,21-07-2025,Jul,Huda Beauty,Mascara,USA,Beauty Salon,Digital Wallet,46.98,37,1738.26
+327,18-04-2025,Apr,L'Oreal,Highlighter,Canada,Retail Store,Digital Wallet,55.42,19,1052.98
+328,05-06-2025,Jun,MAC,Highlighter,Germany,Online,Card,32.83,43,1411.69
+329,03-11-2025,Nov,NARS,Foundation,France,Online,Cash,60.11,26,1562.86
+330,08-05-2025,May,MAC,Foundation,Germany,Mall,Card,80.62,23,1854.26
+331,24-02-2025,Feb,Huda Beauty,Eyeliner,Canada,Mall,Card,6.21,17,105.57
+332,26-08-2025,Aug,MAC,Concealer,USA,Beauty Salon,Cash,93.82,38,3565.16
+333,01-06-2025,Jun,L'Oreal,Mascara,France,Mall,Card,52.84,6,317.04
+334,22-08-2025,Aug,Estee Lauder,Concealer,Canada,Online,Card,95.19,34,3236.46
+335,23-12-2025,Dec,Fenty Beauty,Foundation,UK,Online,Card,57.03,5,285.15
+336,28-11-2025,Nov,Huda Beauty,Mascara,Saudi Arabia,Mall,Digital Wallet,17.58,11,193.38
+337,07-08-2025,Aug,NARS,Mascara,Saudi Arabia,Beauty Salon,Card,115.22,15,1728.30
+338,15-01-2025,Jan,Estee Lauder,Highlighter,Germany,Online,Digital Wallet,89.80,13,1167.40
+339,20-04-2025,Apr,L'Oreal,Lipstick,Saudi Arabia,Mall,Card,28.67,49,1404.83
+340,11-04-2025,Apr,Estee Lauder,Concealer,Germany,Beauty Salon,Digital Wallet,57.62,17,979.54
+341,28-02-2025,Feb,MAC,Blush,UK,Retail Store,Card,45.01,30,1350.30
+342,02-03-2025,Mar,MAC,Concealer,Saudi Arabia,Beauty Salon,Card,32.44,8,259.52
+343,02-11-2025,Nov,NARS,Mascara,Canada,Retail Store,Digital Wallet,20.85,25,521.25
+344,27-03-2025,Mar,MAC,Concealer,Canada,Online,Card,61.31,9,551.79
+345,05-01-2025,Jan,NARS,Eyeshadow,Germany,Beauty Salon,Card,60.73,13,789.49
+346,30-12-2025,Dec,MAC,Lipstick,USA,Retail Store,Card,101.59,32,3250.88
+347,17-01-2025,Jan,Fenty Beauty,Mascara,Canada,Beauty Salon,Digital Wallet,36.61,35,1281.35
+348,19-09-2025,Sep,Fenty Beauty,Concealer,USA,Beauty Salon,Digital Wallet,18.02,8,144.16
+349,22-04-2025,Apr,Huda Beauty,Blush,USA,Beauty Salon,Card,118.82,7,831.74
+350,28-06-2025,Jun,Estee Lauder,Lipstick,UAE,Retail Store,Digital Wallet,104.15,6,624.90
+351,29-10-2025,Oct,NARS,Mascara,Saudi Arabia,Retail Store,Cash,84.25,46,3875.50
+352,31-01-2025,Jan,Fenty Beauty,Mascara,France,Mall,Card,70.56,35,2469.60
+353,21-10-2025,Oct,L'Oreal,Mascara,Germany,Online,Card,35.74,33,1179.42
+354,02-12-2025,Dec,Huda Beauty,Mascara,France,Retail Store,Digital Wallet,19.59,9,176.31
+355,21-07-2025,Jul,Fenty Beauty,Highlighter,Germany,Beauty Salon,Cash,61.29,37,2267.73
+356,21-11-2025,Nov,L'Oreal,Highlighter,India,Mall,Card,96.38,50,4819.00
+357,07-09-2025,Sep,L'Oreal,Eyeshadow,France,Online,Digital Wallet,42.64,1,42.64
+358,23-07-2025,Jul,Huda Beauty,Eyeshadow,India,Mall,Card,30.05,28,841.40
+359,22-06-2025,Jun,Estee Lauder,Concealer,USA,Online,Cash,67.94,9,611.46
+360,17-11-2025,Nov,Maybelline,Lipstick,Saudi Arabia,Beauty Salon,Card,95.15,30,2854.50
+361,01-01-2025,Jan,Huda Beauty,Mascara,India,Retail Store,Card,119.06,28,3333.68
+362,17-02-2025,Feb,L'Oreal,Concealer,Saudi Arabia,Online,Card,80.28,17,1364.76
+363,17-11-2025,Nov,Huda Beauty,Highlighter,UK,Online,Cash,40.13,45,1805.85
+364,20-04-2025,Apr,Huda Beauty,Eyeshadow,USA,Online,Digital Wallet,59.83,9,538.47
+365,25-06-2025,Jun,MAC,Eyeshadow,UK,Retail Store,Card,98.97,28,2771.16
+366,15-02-2025,Feb,L'Oreal,Concealer,France,Mall,Cash,89.04,7,623.28
+367,15-07-2025,Jul,MAC,Mascara,UK,Online,Digital Wallet,93.95,49,4603.55
+368,29-11-2025,Nov,Huda Beauty,Mascara,Germany,Beauty Salon,Cash,23.87,23,549.01
+369,14-02-2025,Feb,L'Oreal,Highlighter,France,Beauty Salon,Card,108.11,9,972.99
+370,13-03-2025,Mar,L'Oreal,Eyeliner,India,Online,Digital Wallet,33.50,42,1407.00
+371,04-06-2025,Jun,Huda Beauty,Highlighter,India,Online,Cash,28.63,39,1116.57
+372,11-09-2025,Sep,Estee Lauder,Lipstick,USA,Mall,Card,49.38,16,790.08
+373,09-03-2025,Mar,NARS,Concealer,Saudi Arabia,Beauty Salon,Cash,49.49,37,1831.13
+374,09-01-2025,Jan,Fenty Beauty,Eyeliner,USA,Online,Card,72.55,1,72.55
+375,17-09-2025,Sep,NARS,Highlighter,Germany,Online,Digital Wallet,37.95,46,1745.70
+376,02-10-2025,Oct,Fenty Beauty,Lipstick,India,Online,Digital Wallet,66.83,10,668.30
+377,15-04-2025,Apr,Dior,Highlighter,UK,Mall,Digital Wallet,117.05,10,1170.50
+378,12-08-2025,Aug,Maybelline,Eyeliner,UK,Beauty Salon,Cash,88.95,16,1423.20
+379,21-08-2025,Aug,Fenty Beauty,Mascara,UK,Online,Digital Wallet,75.41,4,301.64
+380,12-03-2025,Mar,Estee Lauder,Concealer,India,Retail Store,Card,85.67,11,942.37
+381,06-03-2025,Mar,L'Oreal,Foundation,France,Beauty Salon,Card,91.22,18,1641.96
+382,26-09-2025,Sep,L'Oreal,Eyeshadow,Canada,Mall,Cash,12.35,46,568.10
+383,13-09-2025,Sep,Dior,Mascara,India,Online,Digital Wallet,103.83,11,1142.13
+384,12-12-2025,Dec,Maybelline,Foundation,USA,Retail Store,Cash,88.12,15,1321.80
+385,30-08-2025,Aug,MAC,Foundation,Germany,Retail Store,Card,46.86,10,468.60
+386,08-05-2025,May,Dior,Blush,UK,Mall,Cash,52.87,47,2484.89
+387,15-09-2025,Sep,MAC,Eyeliner,USA,Beauty Salon,Cash,82.43,4,329.72
+388,27-08-2025,Aug,Fenty Beauty,Concealer,UK,Beauty Salon,Cash,104.59,50,5229.50
+389,08-07-2025,Jul,Fenty Beauty,Eyeliner,Canada,Mall,Digital Wallet,28.08,37,1038.96
+390,10-09-2025,Sep,Huda Beauty,Eyeliner,Saudi Arabia,Online,Card,119.75,50,5987.50
+391,13-01-2025,Jan,Maybelline,Concealer,USA,Beauty Salon,Digital Wallet,31.79,23,731.17
+392,07-06-2025,Jun,Huda Beauty,Highlighter,Canada,Online,Cash,16.95,34,576.30
+393,31-12-2025,Dec,Huda Beauty,Highlighter,France,Beauty Salon,Digital Wallet,37.18,3,111.54
+394,13-02-2025,Feb,MAC,Highlighter,UK,Online,Card,71.79,33,2369.07
+395,06-12-2025,Dec,Fenty Beauty,Blush,France,Beauty Salon,Digital Wallet,115.89,16,1854.24
+396,17-06-2025,Jun,Huda Beauty,Lipstick,UAE,Retail Store,Digital Wallet,41.58,18,748.44
+397,25-02-2025,Feb,Estee Lauder,Eyeshadow,France,Beauty Salon,Cash,22.87,11,251.57
+398,02-10-2025,Oct,Huda Beauty,Eyeshadow,India,Beauty Salon,Card,46.20,50,2310.00
+399,03-03-2025,Mar,Fenty Beauty,Foundation,UAE,Mall,Cash,15.40,44,677.60
+400,16-02-2025,Feb,NARS,Foundation,India,Mall,Cash,86.78,23,1995.94
+401,16-01-2025,Jan,Huda Beauty,Lipstick,Canada,Online,Cash,114.49,29,3320.21
+402,04-03-2025,Mar,Huda Beauty,Mascara,UAE,Beauty Salon,Card,6.38,50,319.00
+403,18-12-2025,Dec,L'Oreal,Blush,UK,Online,Cash,77.48,42,3254.16
+404,12-04-2025,Apr,MAC,Lipstick,France,Online,Cash,108.79,29,3154.91
+405,25-08-2025,Aug,NARS,Highlighter,Canada,Online,Card,10.82,37,400.34
+406,16-12-2025,Dec,Huda Beauty,Mascara,India,Mall,Card,54.07,23,1243.61
+407,18-03-2025,Mar,Huda Beauty,Blush,Canada,Beauty Salon,Digital Wallet,8.98,40,359.20
+408,03-09-2025,Sep,NARS,Mascara,Germany,Retail Store,Digital Wallet,12.01,18,216.18
+409,27-09-2025,Sep,Maybelline,Highlighter,France,Beauty Salon,Digital Wallet,33.65,35,1177.75
+410,06-09-2025,Sep,Dior,Highlighter,India,Retail Store,Cash,44.56,37,1648.72
+411,13-06-2025,Jun,Fenty Beauty,Foundation,Canada,Mall,Digital Wallet,73.67,2,147.34
+412,30-04-2025,Apr,Huda Beauty,Eyeliner,India,Online,Cash,117.01,7,819.07
+413,22-10-2025,Oct,Dior,Mascara,Saudi Arabia,Retail Store,Digital Wallet,102.35,25,2558.75
+414,12-06-2025,Jun,Dior,Foundation,France,Retail Store,Digital Wallet,97.71,45,4396.95
+415,07-04-2025,Apr,Fenty Beauty,Mascara,Canada,Online,Cash,101.22,32,3239.04
+416,29-01-2025,Jan,Maybelline,Eyeshadow,USA,Mall,Digital Wallet,31.75,15,476.25
+417,14-04-2025,Apr,MAC,Concealer,USA,Online,Cash,97.74,22,2150.28
+418,28-10-2025,Oct,L'Oreal,Concealer,UK,Mall,Digital Wallet,86.04,10,860.40
+419,06-12-2025,Dec,Dior,Blush,France,Retail Store,Cash,50.49,7,353.43
+420,12-08-2025,Aug,Dior,Mascara,France,Retail Store,Digital Wallet,96.06,32,3073.92
+421,29-10-2025,Oct,Fenty Beauty,Blush,Saudi Arabia,Retail Store,Digital Wallet,98.66,25,2466.50
+422,01-01-2025,Jan,NARS,Foundation,Saudi Arabia,Mall,Digital Wallet,114.11,37,4222.07
+423,24-04-2025,Apr,Estee Lauder,Mascara,France,Online,Cash,78.56,7,549.92
+424,27-06-2025,Jun,L'Oreal,Concealer,Canada,Online,Card,117.97,11,1297.67
+425,18-04-2025,Apr,Dior,Blush,UK,Online,Cash,33.70,5,168.50
+426,17-07-2025,Jul,MAC,Highlighter,Canada,Beauty Salon,Card,55.40,27,1495.80
+427,07-10-2025,Oct,Huda Beauty,Mascara,Canada,Online,Cash,48.16,31,1492.96
+428,31-05-2025,May,L'Oreal,Lipstick,France,Retail Store,Card,7.31,17,124.27
+429,24-03-2025,Mar,L'Oreal,Concealer,Canada,Online,Card,89.18,36,3210.48
+430,01-12-2025,Dec,MAC,Foundation,UK,Mall,Cash,23.97,28,671.16
+431,08-04-2025,Apr,Fenty Beauty,Blush,India,Retail Store,Cash,52.07,36,1874.52
+432,26-01-2025,Jan,Estee Lauder,Mascara,USA,Mall,Cash,50.18,36,1806.48
+433,07-08-2025,Aug,Estee Lauder,Eyeliner,UK,Online,Cash,15.08,43,648.44
+434,29-03-2025,Mar,Estee Lauder,Lipstick,India,Beauty Salon,Card,78.39,6,470.34
+435,08-09-2025,Sep,L'Oreal,Highlighter,Saudi Arabia,Mall,Card,107.91,17,1834.47
+436,09-07-2025,Jul,Fenty Beauty,Eyeshadow,Canada,Mall,Cash,26.46,3,79.38
+437,18-05-2025,May,L'Oreal,Lipstick,France,Beauty Salon,Digital Wallet,69.89,10,698.90
+438,27-04-2025,Apr,NARS,Eyeshadow,UAE,Beauty Salon,Card,68.66,25,1716.50
+439,10-02-2025,Feb,Maybelline,Mascara,UK,Beauty Salon,Cash,50.40,46,2318.40
+440,27-03-2025,Mar,MAC,Foundation,Germany,Online,Digital Wallet,116.80,13,1518.40
+441,11-08-2025,Aug,MAC,Blush,France,Online,Cash,28.22,41,1157.02
+442,18-07-2025,Jul,Dior,Blush,Canada,Online,Digital Wallet,68.98,36,2483.28
+443,16-11-2025,Nov,L'Oreal,Highlighter,Saudi Arabia,Retail Store,Digital Wallet,72.57,27,1959.39
+444,29-10-2025,Oct,L'Oreal,Lipstick,India,Mall,Card,72.01,7,504.07
+445,16-05-2025,May,Estee Lauder,Foundation,Saudi Arabia,Mall,Card,49.05,32,1569.60
+446,15-03-2025,Mar,NARS,Foundation,Germany,Mall,Digital Wallet,76.10,44,3348.40
+447,02-05-2025,May,Fenty Beauty,Concealer,USA,Mall,Card,10.67,31,330.77
+448,09-06-2025,Jun,L'Oreal,Eyeliner,Saudi Arabia,Mall,Digital Wallet,37.24,32,1191.68
+449,15-08-2025,Aug,Fenty Beauty,Highlighter,UK,Retail Store,Card,94.01,21,1974.21
+450,19-04-2025,Apr,Estee Lauder,Concealer,USA,Retail Store,Cash,110.04,27,2971.08
+451,09-06-2025,Jun,MAC,Foundation,Saudi Arabia,Retail Store,Cash,86.60,26,2251.60
+452,30-01-2025,Jan,Maybelline,Concealer,UAE,Mall,Card,33.69,30,1010.70
+453,26-08-2025,Aug,L'Oreal,Foundation,UAE,Mall,Card,63.09,41,2586.69
+454,01-11-2025,Nov,Dior,Concealer,Saudi Arabia,Mall,Digital Wallet,56.30,31,1745.30
+455,19-12-2025,Dec,NARS,Foundation,Saudi Arabia,Retail Store,Cash,15.40,2,30.80
+456,28-11-2025,Nov,Fenty Beauty,Highlighter,USA,Online,Card,30.89,14,432.46
+457,09-03-2025,Mar,Maybelline,Eyeliner,India,Mall,Digital Wallet,79.45,39,3098.55
+458,30-12-2025,Dec,NARS,Concealer,Canada,Mall,Cash,78.92,28,2209.76
+459,27-08-2025,Aug,NARS,Lipstick,USA,Mall,Digital Wallet,39.75,34,1351.50
+460,28-11-2025,Nov,Fenty Beauty,Lipstick,Canada,Online,Card,73.28,19,1392.32
+461,22-05-2025,May,Fenty Beauty,Blush,UAE,Retail Store,Digital Wallet,78.67,18,1416.06
+462,04-05-2025,May,NARS,Concealer,Saudi Arabia,Online,Digital Wallet,108.46,39,4229.94
+463,12-09-2025,Sep,NARS,Highlighter,Germany,Online,Digital Wallet,119.71,17,2035.07
+464,29-12-2025,Dec,Dior,Eyeliner,Canada,Mall,Digital Wallet,119.40,13,1552.20
+465,03-06-2025,Jun,MAC,Blush,UK,Beauty Salon,Cash,102.22,43,4395.46
+466,13-05-2025,May,MAC,Concealer,UK,Retail Store,Card,88.40,36,3182.40
+467,25-04-2025,Apr,NARS,Concealer,France,Mall,Digital Wallet,90.58,20,1811.60
+468,31-05-2025,May,Estee Lauder,Foundation,UK,Beauty Salon,Cash,58.33,8,466.64
+469,14-09-2025,Sep,NARS,Blush,Germany,Online,Cash,18.78,44,826.32
+470,12-03-2025,Mar,NARS,Eyeshadow,Saudi Arabia,Mall,Digital Wallet,119.12,22,2620.64
+471,03-04-2025,Apr,Dior,Mascara,France,Online,Cash,94.58,32,3026.56
+472,20-08-2025,Aug,MAC,Mascara,Canada,Online,Cash,36.46,49,1786.54
+473,11-11-2025,Nov,NARS,Highlighter,Canada,Beauty Salon,Cash,54.88,28,1536.64
+474,20-01-2025,Jan,Dior,Foundation,France,Retail Store,Cash,66.38,47,3119.86
+475,13-12-2025,Dec,Huda Beauty,Eyeliner,France,Mall,Cash,5.47,47,257.09
+476,22-02-2025,Feb,Fenty Beauty,Mascara,UK,Online,Card,49.11,38,1866.18
+477,29-05-2025,May,Dior,Highlighter,Saudi Arabia,Mall,Card,57.43,34,1952.62
+478,03-07-2025,Jul,NARS,Foundation,UAE,Retail Store,Digital Wallet,91.26,11,1003.86
+479,09-03-2025,Mar,MAC,Lipstick,France,Online,Card,29.29,2,58.58
+480,24-11-2025,Nov,Maybelline,Foundation,UK,Online,Cash,34.42,35,1204.70
+481,20-12-2025,Dec,NARS,Lipstick,India,Beauty Salon,Digital Wallet,18.32,29,531.28
+482,20-03-2025,Mar,Maybelline,Blush,Germany,Online,Digital Wallet,28.63,44,1259.72
+483,24-09-2025,Sep,MAC,Highlighter,UK,Online,Card,36.05,39,1405.95
+484,28-02-2025,Feb,Huda Beauty,Eyeliner,India,Retail Store,Card,95.25,32,3048.00
+485,27-12-2025,Dec,Maybelline,Eyeshadow,UAE,Beauty Salon,Card,52.12,11,573.32
+486,01-05-2025,May,L'Oreal,Lipstick,Canada,Retail Store,Cash,5.31,43,228.33
+487,19-09-2025,Sep,L'Oreal,Blush,UAE,Beauty Salon,Card,13.63,47,640.61
+488,16-05-2025,May,MAC,Foundation,India,Mall,Digital Wallet,58.39,7,408.73
+489,10-06-2025,Jun,L'Oreal,Foundation,USA,Retail Store,Digital Wallet,53.99,8,431.92
+490,28-11-2025,Nov,Estee Lauder,Blush,UK,Mall,Card,24.61,23,566.03
+491,04-04-2025,Apr,Estee Lauder,Blush,Germany,Beauty Salon,Card,18.09,26,470.34
+492,29-11-2025,Nov,L'Oreal,Mascara,USA,Retail Store,Cash,106.90,11,1175.90
+493,02-08-2025,Aug,Estee Lauder,Mascara,Germany,Mall,Digital Wallet,109.79,31,3403.49
+494,15-01-2025,Jan,MAC,Eyeshadow,Canada,Online,Card,104.20,47,4897.40
+495,14-08-2025,Aug,Dior,Foundation,UAE,Mall,Digital Wallet,10.29,17,174.93
+496,25-09-2025,Sep,L'Oreal,Highlighter,UAE,Beauty Salon,Card,84.15,40,3366.00
+497,06-12-2025,Dec,MAC,Foundation,USA,Retail Store,Digital Wallet,82.77,25,2069.25
+498,29-08-2025,Aug,L'Oreal,Eyeshadow,France,Retail Store,Card,102.97,11,1132.67
+499,23-05-2025,May,NARS,Highlighter,UAE,Online,Card,10.79,15,161.85
+500,16-08-2025,Aug,L'Oreal,Eyeshadow,Canada,Mall,Cash,97.15,29,2817.35
